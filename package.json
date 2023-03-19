@@ -1,0 +1,15 @@
+{
+  "name": "ts-convert-kitchen-sink",
+  "version": "1.0.0",
+  "description": "\"JavaScript Kitchen Sink\r The objective of this lab assignment is to practice using the fundamentals of JavaScript that were explored in lecture.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "tsc app.ts -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.0.2"
+  }
+}
